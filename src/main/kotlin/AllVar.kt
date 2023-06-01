@@ -6,7 +6,7 @@ object AllVar {
     var host : String = "127.0.0.1:3306"
     var database : String = "sample"
     var username : String = "user1"
-    var password : String = "123456"
+    var password : String = "1234"
 
     fun getConnection() : Connection?{
         var connect : Connection? = null
