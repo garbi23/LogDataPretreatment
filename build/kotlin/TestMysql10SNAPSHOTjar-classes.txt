@@ -1,0 +1,1 @@
+C:\Users\garbi\Documents\GitHub\TestMysql\build\classes\kotlin\main\AllVar.class;C:\Users\garbi\Documents\GitHub\TestMysql\build\classes\kotlin\main\MainKt.class;C:\Users\garbi\Documents\GitHub\TestMysql\build\classes\kotlin\main\SeriallizeObject.class
